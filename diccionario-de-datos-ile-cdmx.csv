@@ -1,0 +1,42 @@
+Variable,Descripción,Tipo de dato
+año,Año en que se realiza el procedimiento,numérico 
+mes,Mes en que se realiza el procedimiento,texto
+fecha_ingreso,Fecha de Interrupción Legal del Embarazo,fecha
+referida,Especificar si la paciente es referida de otra unidad o acude directamente,texto
+estado_civil                  ,Estado civil,texto 
+edad,Edad cumplida en años,numérico
+institucion_derechohab        ,Especificar la institución que otorga la derechohabiencia,texto 
+nivel_edu,Último nivel escolar acreditado,texto 
+ocupacion,Ocupación,texto 
+religión,Religión,texto 
+parentesco,Parentesco del responsable con la paciente solamente para menores de edad obligatorio,texto 
+entidad,Entidad de residencia,texto 
+alc_o_municipio,Alcaldía o municipio de residencia,texto 
+edad_primera_menstruacion ,Edad de la primera menstruación,numérico
+edad_inicio_vida_sexual,Edad de inicio de vida sexual activa,numérico
+fecha_ultima_menstruacion,Fecha de la última menstruación,fecha
+semanas_embarazo             ,Semanas de embarazo por fecha de última menstruación,numérico
+numero_hijos                 ,Número de hijos,numérico
+numero_embarazos             ,Número de embarazos (Incluyendo abortos),numérico
+numero_abortos               ,Número de abortos (Sin contar ILE),numérico
+numero_partos                ,Número de nacimientos por vía  vaginal,numérico
+numero_cesareas              ,Número de cesáreas,numérico
+numero_iles                  ,Número de Interrupciones Legales del Embarazo previas al procedimiento actual,numérico
+recibio_consejeria            ,Especificar si la paciente recibía consejería sobre la ILE,texto 
+uso_anticonceptivo            ,Especificar si la paciente utiliza de forma habitual método anticonceptivo,texto 
+fecha_primera_valoracion,Fecha de primera valoración o atención,fecha
+numero_consultas ,Número de consultas previas al ILE,numérico
+motivos_interrupcion,Motivo por el cual se desea la interrupción del embarazo,texto 
+fecha_ingreso_hosp,"En caso de hospitalización, fecha de ingreso",fecha
+fecha_egreso_hosp,"En caso de hospitalización, fecha de egreso",fecha
+desc_servicio,Servicio en el que se otorga la interrupción,texto 
+semanas_gestacion_usg          ,Semanas de gestación por USG,numérico
+dias_gestacion_usg ,Días de gestación por USG,numérico
+firma_consentimiento,Se requisita y firmo el consentimiento informado,texto 
+se_complica                   ,Se presentaron complicaciones por el procedimiento,texto 
+con_dolor,Se presenta dolor posterior al procedimiento,texto 
+analgesico                    ,Se prescribe medicación analgésica,texto 
+anticonceptivo_post           ,Método anticonceptivo proporcionado post evento obstárico,texto 
+fecha_cierre                 ,Fecha de cierre del procedimiento de ILE,fecha
+resultado_ile,Resultado del procedimiento de ILE,texto 
+procedimiento_ile             ,Tipo procedimiento,texto
